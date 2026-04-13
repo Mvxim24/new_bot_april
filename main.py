@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 
 # --- КОНФИГУРАЦИЯ ---
 TOKEN = '8548326510:AAE7lF1XAVfwtNJgEaWMiiXk7oKWr3Hq2AA'
-SYMBOLS = ['BTC/USDT', 'ETH/USDT', 'SOL/USDT', 'BNB/USDT']
+SYMBOLS = ['BTC/USDT', 'ETH/USDT']
 
 HISTORY_FILE = 'trade_history.json'
 ACTIVE_FILE = 'active_trades.json'
