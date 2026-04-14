@@ -15,7 +15,7 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 
 # --- КОНФИГУРАЦИЯ ---
-TOKEN = '8548326510:AAE7lF1XAVfwtNJgEaWMiiXk7oKWr3Hq2AA'
+TOKEN = '8548326510:AAGWO3mrvE_ZCbO4jHKs2TkPM_Agn51v7PE'
 SYMBOLS = ['BTC/USDT', 'ETH/USDT']
 
 HISTORY_FILE = 'trade_history.json'
