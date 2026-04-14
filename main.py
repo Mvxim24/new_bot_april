@@ -8,7 +8,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from binance import AsyncClient, BinanceSocketManager
 
 # --- НАСТРОЙКИ ---
-API_TOKEN = '8548326510:AAGWO3mrvE_ZCbO4jHKs2TkPM_Agn51v7PE'
+API_TOKEN = '8548326510:AAEQxJf_59QWFcNOXpFKxKRowq69tbfCwao'
 IMBALANCE_COEFF = 2.5
 COOLDOWN_TIME = 1800 
 
