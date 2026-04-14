@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 ccxt
 pandas
+python-dotenv
