@@ -1,4 +1,3 @@
-pyTelegramBotAPI
-ccxt
-pandas
-python-dotenv
+aiogram
+python-binance
+aiosqlite
